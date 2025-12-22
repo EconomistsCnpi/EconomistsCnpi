@@ -3,12 +3,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 📊 **Economist | 📈 CNPI | 🧠 Data & Investment Analysis**  
-💻 Python • TypeScript • Next.js • Django • SQL
+💻 Python • TypeScript • Next.js • Julia • Django • SQL
 
 I am an economist and **CNPI-certified analyst** with a strong focus on **data analysis, financial modeling, and investment strategies**.  
 I use programming to transform economic and financial data into **dashboards, indicators, and decision-making tools**.
@@ -20,13 +21,12 @@ I use programming to transform economic and financial data into **dashboards, in
 ### Languages
 - 🐍 **Python**
 - 🟦 **TypeScript**
+- 🔴 **Julia**
 - 🗄️ **SQL**
 
 ### Frameworks & Tools
 - ⚛️ **Next.js (App Router)**
 - 🌐 **Django**
-- 📊 Pandas, NumPy
-- 📈 Matplotlib
 - 🗃️ PostgreSQL
 - 🐧 Linux
 - 🔧 Git & GitHub
@@ -46,7 +46,7 @@ I use programming to transform economic and financial data into **dashboards, in
 ## 🚀 Featured Projects
 
 🔹 **BrazilCentralBank_Julia**  
-📌 Central Bank and macroeconomic data analysis  
+📌 Central Bank and macroeconomic data analysis using Julia  
 👉 https://github.com/EconomistsCnpi/BrazilCentralBank_Julia
 
 🔹 **Financial Dashboards (Next.js + TypeScript)**  
