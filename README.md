@@ -1,9 +1,72 @@
-# Hello, I am EconomistsCnpi 👋
+# Hello, I'm EconomistsCnpi 👋
 
-I am an economics and technology enthusiast, with a focus on data analysis and investments.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-## 🛠️ Technologies I use
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+📊 **Economist | 📈 CNPI | 🧠 Data & Investment Analysis**  
+💻 Python • TypeScript • Next.js • Django • SQL
 
+I am an economist and **CNPI-certified analyst** with a strong focus on **data analysis, financial modeling, and investment strategies**.  
+I use programming to transform economic and financial data into **dashboards, indicators, and decision-making tools**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- 🐍 **Python**
+- 🟦 **TypeScript**
+- 🗄️ **SQL**
+
+### Frameworks & Tools
+- ⚛️ **Next.js (App Router)**
+- 🌐 **Django**
+- 📊 Pandas, NumPy
+- 📈 Matplotlib
+- 🗃️ PostgreSQL
+- 🐧 Linux
+- 🔧 Git & GitHub
+
+---
+
+## 📊 Areas of Interest
+- Quantitative Finance
+- Factor Investing
+- Macroeconomic Analysis
+- Central Bank Data (SGS, FRED, APIs)
+- Financial Dashboards & Automation
+- Web Applications for Economic & Financial Data
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **BrazilCentralBank_Julia**  
+📌 Central Bank and macroeconomic data analysis  
+👉 https://github.com/EconomistsCnpi/BrazilCentralBank_Julia
+
+🔹 **Financial Dashboards (Next.js + TypeScript)**  
+📌 Interactive dashboards for economic and financial indicators  
+👉 https://github.com/EconomistsCnpi
+
+🔹 **Backtesting & Factor Investing**  
+📌 Momentum, EV/EBIT, volatility and risk-free rate models  
+👉 https://github.com/EconomistsCnpi
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EconomistsCnpi&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EconomistsCnpi&layout=compact&theme=dark)
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/EconomistsCnpi
+
+⭐ Feel free to explore my repositories and projects.
