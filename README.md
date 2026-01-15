@@ -6,7 +6,7 @@
 
 ### 📊 Economist | 📈 CNPI-P Analyst | 🧠 Data & Investment Analysis
 
-I am an economist and **CNPI-certified investment analyst** with a strong focus on bridging the gap between financial markets and technology. I build tools that transform raw economic data into actionable insights.
+I am an Economist and CNPI-P with a strong focus on bridging the gap between financial markets and technology. I build tools that transform raw economic data into actionable insights.
 
 ---
 
