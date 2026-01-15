@@ -1,57 +1,54 @@
 # Hello, I'm EconomistsCnpi 👋
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EconomistsCnpi&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-📊 **Economist | 📈 CNPI | 🧠 Data & Investment Analysis**  
-💻 Python • TypeScript • Next.js • Julia • Django • SQL
+### 📊 Economist | 📈 CNPI-P Analyst | 🧠 Data & Investment Analysis
 
-I am an economist and **CNPI-certified analyst** with a strong focus on **data analysis, financial modeling, and investment strategies**.  
-I use programming to transform economic and financial data into **dashboards, indicators, and decision-making tools**.
+I am an economist and **CNPI-certified investment analyst** with a strong focus on bridging the gap between financial markets and technology. I build tools that transform raw economic data into actionable insights.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-- 🐍 **Python**
-- 🟦 **TypeScript**
-- 🔴 **Julia**
-- 🗄️ **SQL**
-
-### Frameworks & Tools
-- ⚛️ **Next.js (App Router)**
-- 🌐 **Django**
-- 🗃️ PostgreSQL
-- 🐧 Linux
-- 🔧 Git & GitHub
+### 🚀 Featured Project
+**[Economia com Dados](https://economiacomdados.com.br)** *Founder & Lead Developer*
+- A comprehensive platform for economic and financial data analysis.
+- **Frontend:** Next.js (App Router), Tailwind CSS, TypeScript.
+- **Backend/Data:** Python (Pandas, NumPy), PostgreSQL.
+- **Infrastructure:** Deployed on VPS with focus on performance and SEO.
 
 ---
 
-## 📊 Areas of Interest
-- Quantitative Finance
-- Factor Investing
-- Macroeconomic Analysis
-- Central Bank Data (SGS, FRED, APIs)
-- Financial Dashboards & Automation
-- Web Applications for Economic & Financial Data
+### 🛠️ Tech Stack
+
+**Languages**
+- 🐍 **Python** (Data Science, Scrapers, Finance)
+- 🟦 **TypeScript/JavaScript** (Frontend Development)
+- 🔴 **Julia** (Quantitative Analysis)
+- 🗄️ **SQL** (PostgreSQL)
+
+**Frameworks & Tools**
+- **Web:** Next.js, React, Django, Tailwind CSS
+- **Data/Finance:** Pandas, Matplotlib, APIs (BCB/SGS, FRED, Yahoo Finance)
+- **DevOps:** Linux, Git, Docker, VPS Management
 
 ---
 
+### 📊 Areas of Expertise & Interest
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EconomistsCnpi&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EconomistsCnpi&layout=compact&theme=dark)
+- **Quantitative Finance:** Factor Investing and Risk Management.
+- **Macroeconomic Analysis:** Automation of Central Bank data collection and visualization.
+- **Financial Dashboards:** Creating intuitive interfaces for complex financial metrics.
+- **Web Automation:** Scalable data scraping for market intelligence.
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/EconomistsCnpi
+### 📫 Let's Connect
+- **Website:** [economiacomdados.com.br](https://economiacomdados.com.br)
+- **LinkedIn:** [Seu-Link-Aqui-Opcional]
 
-⭐ Feel free to explore my repositories and projects.
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EconomistsCnpi&theme=radical" alt="GitHub Streak" />
+</div>
