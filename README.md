@@ -43,21 +43,6 @@ I use programming to transform economic and financial data into **dashboards, in
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 **BrazilCentralBank_Julia**  
-📌 Central Bank and macroeconomic data analysis using Julia  
-👉 https://github.com/EconomistsCnpi/BrazilCentralBank_Julia
-
-🔹 **Financial Dashboards (Next.js + TypeScript)**  
-📌 Interactive dashboards for economic and financial indicators  
-👉 https://github.com/EconomistsCnpi
-
-🔹 **Backtesting & Factor Investing**  
-📌 Momentum, EV/EBIT, volatility and risk-free rate models  
-👉 https://github.com/EconomistsCnpi
-
----
 
 ## 📈 GitHub Stats
 
