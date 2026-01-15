@@ -45,7 +45,7 @@ I am an economist and **CNPI-certified investment analyst** with a strong focus 
 
 ### 📫 Let's Connect
 - **Website:** [economiacomdados.com.br](https://economiacomdados.com.br)
-- **LinkedIn:** [Seu-Link-Aqui-Opcional]
+  
 
 ---
 
